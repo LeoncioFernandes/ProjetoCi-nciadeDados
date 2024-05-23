@@ -1,0 +1,9 @@
+mes,idade,profissao,salario_anual,num_contas,num_cartoes,juros_emprestimo,num_emprestimos,dias_atraso,num_pagamentos_atrasados,num_verificacoes_credito,mix_credito,divida_total,taxa_uso_credito,idade_historico_credito,investimento_mensal,comportamento_pagamento,saldo_final_mes,emprestimo_carro,emprestimo_casa,emprestimo_pessoal,emprestimo_credito,emprestimo_estudantil
+1,31.0,empresario,19300.34,6.0,7.0,17.0,5.0,52.0,19.0,7.0,Ruim,2430.21,29.934185732751413,218.0,44.50950984607408,baixo_gasto_pagamento_baixo,312.4876885895601,1,1,0,0,0
+4,32.0,advogado,12600.445,5.0,5.0,10.0,3.0,25.0,18.0,7.0,Normal,569.8,28.819407058304,12.0,0.0,baixo_gasto_pagamento_medio,300.9941628933122,0,0,0,0,1
+2,48.0,empresario,20787.69,8.0,6.0,14.0,7.0,24.0,14.0,3.0,Normal,614.6,34.235852681958825,215.0,0,baixo_gasto_pagamento_alto,345.0815769711927,0,1,0,1,0
+3,21.0,desenvolvedor,35547.71,7.0,5.0,5.0,0.0,5.0,12.0,4.0,Normal,943.86,23.462303036448013,370.0,37.64363788963997,baixo_gasto_pagamento_medio,392.1922656650829,0,0,0,0,0
+4,27.0,arquiteto,85461.63,5.0,7.0,11.0,0.0,20.0,14.0,2.0,Normal,566.74,24.45260266900141,241.0,123.75929613650943,baixo_gasto_pagamento_medio,399.5927597248596,0,0,0,0,0
+3,36.0,professor,61117.29,8.0,8.0,17.0,7.0,18.0,11.0,6.0,Normal,2139.33,23.35831710510985,96.0,39.80608075615829,alto_gasto_pagamento_alto,326.1340105134805,1,1,1,0,1
+7,48.0,arquiteto,137097.8,4.0,7.0,5.0,3.0,3.0,6.0,3.0,Bom,1045.06,33.61801680563637,350.0,125.52514056745493,baixo_gasto_pagamento_medio,510.9274751243639,1,0,0,0,1
+3,46.0,cientista,108255.72,2.0,2.0,3.0,3.0,6.0,0.0,2.0,Bom,794.74,30.122574068916343,342.0,69.92486722973784,baixo_gasto_pagamento_medio,538.2273497173298,1,0,0,0,1
